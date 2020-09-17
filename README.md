@@ -1,2 +1,1 @@
-# triquetra-info-collecter
-Thank you for maked this project
+CODED BY TRV HACKING BOT
